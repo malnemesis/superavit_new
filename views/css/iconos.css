@@ -1,0 +1,51 @@
+:root {
+    --coloriconos: #000;
+    --colorfondoiconos: #fff;
+    --anchoiconos: 37px;
+    --largoiconos: 37px;
+}
+
+.top-bar ul.top-links li a i.fa-whatsapp:hover {
+    color: #fff;
+    background-color: #25d366;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.top-bar ul.top-links li a i.fa-facebook:hover {
+    color: #fff;
+    background-color: #3b5998;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.top-bar ul.top-links li a i.fa-envelope:hover {
+    color: #fff;
+    background-color: #0078d7;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.Fantasy {
+    padding: 10px 10px 10px 10px;
+}
+
+section.contact-w3ls ul.social-icons1 li a i.fa-whatsapp:hover {
+    background-color: #25d366;
+    color: #fff;
+}
+
+section.contact-w3ls ul.social-icons1 li a i.fa-facebook:hover {
+    background-color: #3b5998;
+    color: #fff;
+}
+
+section.contact-w3ls ul.social-icons1 li a i.fa-envelope:hover {
+    background-color: #0078d7;
+    color: #fff;
+}

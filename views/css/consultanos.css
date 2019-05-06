@@ -1,0 +1,77 @@
+#whats {
+  position: fixed;
+  bottom: 23px;
+  left: 10px; 
+  background: #25d366;
+  width: 55px;
+  height: 55px;
+  display: block;
+  text-decoration: none;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  cursor: pointer;
+  transition: 0.5s;
+  z-index: 999999999999999999;
+}
+
+.cerrar {
+position: fixed;
+bottom: 23px;
+left: 25px;
+background: #21252900;
+width: 55px;
+height: 55px;
+display: block;
+text-decoration: none;
+-webkit-border-radius: 35px;
+-moz-border-radius: 35px;
+border-radius: 35px;
+cursor: pointer;
+transition: 0.5s;
+z-index: 999999999999999999;
+  color:transparent;
+  border: 2px solid #25d36500;
+
+}
+
+.abrir{
+position: fixed;
+bottom: 23px;
+left: 25px;
+background: #212529;
+height: 55px;
+width: 200px;
+display: block;
+text-decoration: none;
+-webkit-border-radius: 35px;
+-moz-border-radius: 35px;
+border-radius: 35px;
+cursor: pointer;
+transition: 0.s;
+z-index: 999999999999999999;
+color:white;
+border: 2px solid #25d366;
+}
+
+.texto-abrir{
+  margin-top: 5px;
+  margin-left: 60px;
+  font-size: 15px;
+  transition: 0.2s;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color:white;
+}
+
+#whats:hover{ 
+background: #1ba84f;
+transition: 0.5s;
+}
+
+#icon-whats{
+color: white;
+margin-top:12px;
+margin-left:15px;
+}
+
